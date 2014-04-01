@@ -1,1 +1,2 @@
 hola2
+\n adios 2
