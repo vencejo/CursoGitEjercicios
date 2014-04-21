@@ -1,2 +1,4 @@
 Soy un archivo problematico
 Esta linea esta editada localmente
+Y ahora lo soy mas ya que he sido editado en github
+Y esta linea la pongo al resolver el conflicto
